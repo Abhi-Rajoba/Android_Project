@@ -4,13 +4,6 @@ ChatConnect is a modern real-time chat application developed using **Kotlin**, *
 
 ---
 
-## 🔗 Demo
-
-**[https://drive.google.com/file/d/1psk3oNGOyizK4ulJkioR4Eo9SfayBrRK/view?usp=sharing](#)**  
-
-**[https://github.com/SnehalHanmant/android](#)**
-
----
 
 
 ## 🚀 Technologies Used
@@ -59,7 +52,7 @@ ChatConnect/
 
 ## Author
 
-**Snehal Sanjay Hanmant**  
+**Abhishek Ashok Rajoba**  
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
